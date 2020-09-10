@@ -168,7 +168,7 @@ dfn {
 }
 @media screen and (min-width: 768px) {
   body {
-    font-size: 16px;
+    font-size: 18px;
   }
   body h1,
   body h2,
@@ -176,26 +176,26 @@ dfn {
   body h4,
   body h5,
   body h6 {
-    line-height: 1.4;
+    line-height: 3;
     margin: 5px 0 25px;
   }
   body h1 {
-    font-size: 32px;
+    font-size: 34px;
   }
   body h2 {
-    font-size: 28px;
+    font-size: 30px;
   }
   body h3 {
-    font-size: 24px;
+    font-size: 26px;
   }
   body h4 {
-    font-size: 20px;
+    font-size: 22px;
   }
   body h5 {
-    font-size: 18px;
+    font-size: 20px;
   }
   body h6 {
-    font-size: 16px;
+    font-size: 18px;
   }
   .body-container.float {
     margin-top: -85px;
@@ -219,7 +219,7 @@ dfn {
 }
 @media screen and (max-width: 767px) {
   body {
-    font-size: 12px;
+    font-size: 14px;
   }
   body h1,
   body h2,
@@ -230,22 +230,22 @@ dfn {
     margin: 3px 0 20px;
   }
   body h1 {
-    font-size: 26px;
+    font-size: 28px;
   }
   body h2 {
-    font-size: 22px;
+    font-size: 24px;
   }
   body h3 {
-    font-size: 20px;
+    font-size: 22px;
   }
   body h4 {
-    font-size: 18px;
+    font-size: 20px;
   }
   body h5 {
-    font-size: 14px;
+    font-size: 16px;
   }
   body h6 {
-    font-size: 12px;
+    font-size: 14px;
   }
   .body-container.float {
     margin-top: -40px;
@@ -676,6 +676,7 @@ html.show-mobile-nav .navbar-list {
   max-width: max-content-width;
   text-align: center;
   color: #aeb5be;
+  font-size: 14px;
 }
 .footer .footer-container p {
   line-height: 2;
@@ -1321,6 +1322,7 @@ html.show-mobile-nav .navbar-list {
 .article-entry p,
 .article-entry table {
   line-height: 1.6em;
+  line-height: 2;
   margin: 1.6em 0;
 }
 .article-entry table {
@@ -1369,7 +1371,7 @@ html.show-mobile-nav .navbar-list {
 .article-entry ul,
 .article-entry ol {
   padding-left: 2em;
-  line-height: 1.6;
+  line-height: 2;
 }
 .article-entry ul {
   list-style-type: disc;

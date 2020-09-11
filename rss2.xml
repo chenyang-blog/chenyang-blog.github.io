@@ -15,7 +15,7 @@
     <atom:link href="http://chenyang-blog.github.io/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description></description>
-    <pubDate>Fri, 11 Sep 2020 05:03:39 GMT</pubDate>
+    <pubDate>Fri, 11 Sep 2020 05:08:15 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
     <item>
@@ -68,9 +68,9 @@
       <category domain="http://chenyang-blog.github.io/categories/%E7%BE%8A%E6%AF%9B%E6%97%A5%E8%AE%B0/">羊毛日记</category>
       
       
-      <category domain="http://chenyang-blog.github.io/tags/%E7%BE%8A%E6%AF%9B%E6%97%A5%E8%AE%B0/">羊毛日记</category>
-      
       <category domain="http://chenyang-blog.github.io/tags/%E4%BF%A1%E7%94%A8%E5%8D%A1/">信用卡</category>
+      
+      <category domain="http://chenyang-blog.github.io/tags/%E7%BE%8E%E5%9B%BD/">美国</category>
       
       
       <comments>http://chenyang-blog.github.io/2020/08/16/2020-08/YangMao2/#disqus_thread</comments>
@@ -94,9 +94,9 @@
       <category domain="http://chenyang-blog.github.io/categories/%E7%BE%8A%E6%AF%9B%E6%97%A5%E8%AE%B0/">羊毛日记</category>
       
       
-      <category domain="http://chenyang-blog.github.io/tags/%E7%BE%8A%E6%AF%9B%E6%97%A5%E8%AE%B0/">羊毛日记</category>
-      
       <category domain="http://chenyang-blog.github.io/tags/%E4%BF%A1%E7%94%A8%E5%8D%A1/">信用卡</category>
+      
+      <category domain="http://chenyang-blog.github.io/tags/%E7%BE%8E%E5%9B%BD/">美国</category>
       
       
       <comments>http://chenyang-blog.github.io/2019/11/08/2019-11/YangMao/#disqus_thread</comments>
@@ -121,7 +121,11 @@
       <category domain="http://chenyang-blog.github.io/categories/%E7%BE%8E%E9%A3%9F%E6%97%A5%E8%AE%B0/">美食日记</category>
       
       
-      <category domain="http://chenyang-blog.github.io/tags/%E7%BE%8E%E9%A3%9F%E6%97%A5%E8%AE%B0/">美食日记</category>
+      <category domain="http://chenyang-blog.github.io/tags/%E7%BE%8E%E5%9B%BD/">美国</category>
+      
+      <category domain="http://chenyang-blog.github.io/tags/%E7%BE%8E%E9%A3%9F/">美食</category>
+      
+      <category domain="http://chenyang-blog.github.io/tags/%E6%B9%BE%E5%8C%BA/">湾区</category>
       
       
       <comments>http://chenyang-blog.github.io/2019/07/10/2019-07/gourmet0/#disqus_thread</comments>

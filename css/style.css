@@ -176,7 +176,7 @@ dfn {
   body h4,
   body h5,
   body h6 {
-    line-height: 3;
+    line-height: 2;
     margin: 5px 0 25px;
   }
   body h1 {
@@ -1322,7 +1322,7 @@ html.show-mobile-nav .navbar-list {
 .article-entry p,
 .article-entry table {
   line-height: 1.6em;
-  line-height: 2;
+  line-height: 1.7;
   margin: 1.6em 0;
 }
 .article-entry table {
@@ -1371,7 +1371,7 @@ html.show-mobile-nav .navbar-list {
 .article-entry ul,
 .article-entry ol {
   padding-left: 2em;
-  line-height: 2;
+  line-height: 1.7;
 }
 .article-entry ul {
   list-style-type: disc;
